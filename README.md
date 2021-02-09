@@ -4,3 +4,4 @@
 
 - [async函数的一些理解](https://github.com/Marze1994/blog/issues/2)
 - [Javascript动态集合](https://github.com/Marze1994/blog/issues/1)
+- [前端模块化的前世今生](https://github.com/Marze1994/blog/issues/3)
